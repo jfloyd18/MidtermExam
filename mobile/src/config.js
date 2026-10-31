@@ -7,7 +7,7 @@
 //  - Web browser (press "w" in Expo):        http://localhost/student_api/api
 //  - Online host:                           https://yourname.duckdns.org/api
 // ------------------------------------------------------------------
-export const API_BASE_URL = 'http://10.0.2.2/student_api/api';
+export const API_BASE_URL = 'http://192.168.254.102/student_api/api';
 
 // Some free hosts block PUT/DELETE. Set to true to send them as POST
 // with a "_method" field instead (the PHP API supports both).
